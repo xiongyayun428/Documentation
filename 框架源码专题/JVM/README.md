@@ -1,4 +1,4 @@
 # JVM
 
-- [并发集合类](./JUC/README.md)
+- [并发集合类](./JUC/)
 - [HashMap](HashMap.md)
